@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is the welding position of E6010?",
+    "choice1": "Horizontal",
+    "choice2": "Vertical",
+    "choice3": "All",
+    "choice4": "Flat",
+    "answer": 3
+  },
+  {
+    "question": "What is the welding position of E7018?",
+    "choice1": "Horizontal",
+    "choice2": "Vertical",
+    "choice3": "All",
+    "choice4": "Flat",
+    "answer": 3
+  },
+  {
+    "question": "What is the welding position of E7024?",
+    "choice1": "Horizontal",
+    "choice2": "Vertical",
+    "choice3": "All",
+    "choice4": "Flat",
+    "answer": 1
+  },
+  {
+    "question": "What is Reverse Polarity?",
+    "choice1": "DCEN",
+    "choice2": "90 Amps",
+    "choice3": "DCEP",
+    "choice4": "Reverse What?",
+    "answer": 3
+  },
+  {
+    "question": "What is the power source of an SMAW Machine",
+    "choice1": "Direct Polarity",
+    "choice2": "Constant Current",
+    "choice3": "CP",
+    "choice4": "AC",
+    "answer": 2
+  },
+  {
+    "question": "A Discontinuity is:",
+    "choice1": "A big word",
+    "choice2": "A defect",
+    "choice3": "Machine Problem",
+    "choice4": "An imperfection on a weld that may become a defect after it has been examined",
+    "answer": 4
+  }
+]
